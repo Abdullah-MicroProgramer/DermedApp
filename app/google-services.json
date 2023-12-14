@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385412378169",
+    "project_id": "dermed-app",
+    "storage_bucket": "dermed-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385412378169:android:622d412f6fa321063567e8",
+        "android_client_info": {
+          "package_name": "com.example.dermedapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KzuP4pRL6N51K0jogHVKkmRkMPy-nnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
